@@ -2,6 +2,9 @@
 title: "How to Knit a Sweater on Straight Needles"
 description: "Discover the joy of knitting a cozy sweater on straight needles! Our easy-to-follow guide will have you crafting your own stylish piece in no time."
 date: 2025-10-29
+author: "Echo Reader"
+categories: ["DIY"]
+tags: ["knitting", "sweater", "crafts", "needles"]
 ---
 
 I still remember the first sweater I ever knit. It was a chunky, slightly misshapen, but utterly beloved cream-colored pullover. I was intimidated by the thought of circular needles and complicated patterns, so I stuck with what I knew: my trusty **straight needles**. That project taught me more than just technique; it taught me that creating a garment from a single strand of yarn is a magical, deeply personal act. If you're holding your **straight needles** right now, feeling a mix of excitement and trepidation, I’ve been there. This **easy sweater** guide is designed to walk you through the entire process, one simple step at a time. You can do this.

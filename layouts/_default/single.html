@@ -1,49 +1,71 @@
 {{ define "main" }}
+
 <article class="post-single">
-    <header class="post-header">
-        <div class="container">
-            <h1>
-  <a
-    href="{{ .RelPermalink | absURL }}"
-    aria-label="Permalink to: {{ .Title }}"
-    class="text-blue-600 hover:underline focus:outline-none focus:ring-2 focus:ring-blue-400"
-  >
-    {{ .Title }}
-  </a>
-</h1>
+  <header class="post-header">
+    <div class="container">
 
-            
-            <div class="post-meta">
-                <time datetime="{{ .Date.Format "2006-01-02" }}">
-                    {{ .Date.Format "2 January 2006" }}
-                </time>
-                {{ with .ReadingTime }}
-                <span>• {{ . }} Read Minutes</span>
-                {{ end }}
-            </div>
-        </div>
-    </header>
+      <!-- Breadcrumb -->
+      <nav class="breadcrumb text-sm text-gray-600 mb-2">
+        <span class="text-gray-800">Home</span> › 
+        {{ with .Params.categories }}
+          <span>{{ index . 0 }}</span> › 
+        {{ end }}
+        <span class="font-semibold">{{ .Title }}</span>
+      </nav>
 
-    <div class="post-content container">
-        {{ .Content }}
+      <h1>
+        <a
+          href="{{ .RelPermalink | absURL }}"
+          aria-label="Permalink to: {{ .Title }}"
+          class="text-blue-600 hover:underline focus:outline-none focus:ring-2 focus:ring-blue-400"
+        >
+          {{ .Title }}
+        </a>
+      </h1>
+
+      <div class="post-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "2 January 2006" }}
+        </time>
+        {{ with .ReadingTime }}
+          <span>• {{ . }} Read Minutes</span>
+        {{ end }}
+        <span>• {{ .Params.author }}</span>
+      </div>
     </div>
+  </header>
 
-    <footer class="post-footer">
-        <div class="container">
-            <nav class="post-navigation">
-                {{ with .PrevInSection }}
-                ← <a href="{{ .Permalink }}" class="nav-prev" rel="prev">
-                     {{ .Title }}
-                </a>
-                {{ end }}
-                |
-                {{ with .NextInSection }}
-                <a href="{{ .Permalink }}" class="nav-next" rel="next">
-                    {{ .Title }} 
-                </a> →
-                {{ end }}
-            </nav>
-        </div>
-    </footer>
+  <div class="post-content container">
+    {{ .Content }}
+  </div>
+
+  <!-- Tags -->
+  {{ with .Params.tags }}
+  <div class="post-tags container mt-4">
+    <strong>Tags:</strong>
+    {{ range . }}
+      <span class="inline-block bg-gray-200 text-gray-700 px-2 py-1 rounded mr-2">{{ . }}</span>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  <footer class="post-footer">
+    <div class="container">
+      <nav class="post-navigation">
+        {{ with .PrevInSection }}
+          ← <a href="{{ .Permalink }}" class="nav-prev" rel="prev">
+            {{ .Title }}
+          </a>
+        {{ end }}
+        |
+        {{ with .NextInSection }}
+          <a href="{{ .Permalink }}" class="nav-next" rel="next">
+            {{ .Title }}
+          </a> →
+        {{ end }}
+      </nav>
+    </div>
+  </footer>
 </article>
+
 {{ end }}

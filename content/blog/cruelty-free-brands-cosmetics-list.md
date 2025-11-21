@@ -2,6 +2,9 @@
 title: "Cruelty free Brands Cosmetics List"
 description: "Discover a curated list of cruelty-free cosmetics brands that let you look good while being kind to animals. Shop guilt-free beauty today!"
 date: 2025-11-18
+author: "Echo Reader"
+categories: ["Beauty"]
+tags: ["cruelty-free", "cosmetics", "brands", "makeup"]
 ---
 
 I remember the day I ditched my old makeup bag like it was yesterday. It was 2018, and I was scrolling through endless TikToks about **animal testing** in cosmetics heartbreaking videos of bunnies enduring tests that no one should have to watch. As someone who's always loved playing with **makeup** and **skincare**, that hit me hard. I grew up in a small town in Ohio, where drugstore hauls were my Saturday ritual, but suddenly, every swipe of lipstick felt wrong. So, I dove headfirst into researching **cruelty free brands**, and let me tell you, it's been liberating. Now, seven years later, my routine is all about **ethical cosmetics** that look amazing, feel good on my skin, and align with my values no compromises.
