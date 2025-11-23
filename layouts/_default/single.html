@@ -40,32 +40,42 @@
   </div>
 
   <!-- Tags -->
-  {{ with .Params.tags }}
+{{ with .Params.tags }}
   <div class="post-tags container mt-4">
     <strong>Tags:</strong>
     {{ range . }}
       <span class="inline-block bg-gray-200 text-gray-700 px-2 py-1 rounded mr-2">{{ . }}</span>
     {{ end }}
   </div>
-  {{ end }}
+{{ end }}
 
-  <footer class="post-footer">
-    <div class="container">
-      <nav class="post-navigation">
-        {{ with .PrevInSection }}
-          ← <a href="{{ .Permalink }}" class="nav-prev" rel="prev">
+<footer class="post-footer mt-6">
+  <div class="container">
+    <nav class="post-navigation flex justify-between items-center text-sm text-blue-600">
+      {{ with .PrevInSection }}
+        <div class="flex items-center gap-1">
+          <span aria-hidden="true">←</span>
+          <a href="{{ .Permalink }}" class="nav-prev hover:underline" rel="prev">
             {{ .Title }}
           </a>
-        {{ end }}
-        |
-        {{ with .NextInSection }}
-          <a href="{{ .Permalink }}" class="nav-next" rel="next">
+        </div>
+      {{ else }}
+        <span></span>
+      {{ end }}
+
+      {{ with .NextInSection }}
+        <div class="flex items-center gap-1">
+          <a href="{{ .Permalink }}" class="nav-next hover:underline" rel="next">
             {{ .Title }}
-          </a> →
-        {{ end }}
-      </nav>
-    </div>
-  </footer>
+          </a>
+          <span aria-hidden="true">→</span>
+        </div>
+      {{ else }}
+        <span></span>
+      {{ end }}
+    </nav>
+  </div>
+</footer>
 </article>
 
 {{ end }}

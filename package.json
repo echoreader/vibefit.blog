@@ -8,7 +8,7 @@
     "build:css": "unocss 'layouts/**/*.html' 'content/**/*.md' -o assets/css/unocss.css"
   },
   "devDependencies": {
-    "unocss": "^66.5.4",
+    "unocss": "^66.5.9",
     "vite": "^7.2.1"
   },
   "license": "MIT",
