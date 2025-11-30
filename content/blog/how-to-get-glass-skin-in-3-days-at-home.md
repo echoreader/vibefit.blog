@@ -135,20 +135,30 @@ Another: Skipping patch tests. Always test new items.
 
 ## FAQ
 
-**Can I achieve glass skin if I have acne-prone skin?**  
-Yes, but focus on non-comedogenic products. Gentle exfoliation helps clear skin without worsening breakouts.
+<details>
+  <summary>Is it truly possible to achieve "Glass Skin" in just 3 days?</summary>
+  <p>While true, long-lasting "Glass Skin" (a highly smooth, luminous, and clear complexion) takes consistent, long-term care, you can achieve a dramatic **immediate glow and hydration boost** in 3 days. This is done by intensely focusing on exfoliation, hydration, and facial massage.</p>
+</details>
 
-**How often should I use sheet masks?**  
-In this 3-day plan, daily is fine, but long-term, 2-3 times a week prevents overload.
+<details>
+  <summary>What is the most critical step for achieving the glass-like texture?</summary>
+  <p>The most critical step is gentle, consistent **exfoliation**. This removes the dead, dull surface layer of skin. For 3-day results, use a mild **chemical exfoliant** (like an AHA or PHA toner) once daily, followed by intense hydration.</p>
+</details>
 
-**What if I don't see results in 3 days?**  
-Skin types vary. Extend the routine or consult a dermatologist for personalized advice.
+<details>
+  <summary>What product type is essential for the "luminous" appearance?</summary>
+  <p>To achieve the wet, luminous look, you must use products rich in **Hyaluronic Acid (HA)**. HA is a humectant that draws moisture into the skin, plumping it up and giving it the dewy, reflective quality characteristic of glass skin.</p>
+</details>
 
-**Are there affordable US brands for this?**  
-Absolutely CeraVe for moisturizer, The Ordinary for serums, and Target's own line for sheet masks.
+<details>
+  <summary>What is the '7-Skin Method' and should I use it for quick results?</summary>
+  <p>The **7-Skin Method** involves applying a hydrating, alcohol-free toner or essence in seven thin layers. This technique is excellent for rapid hydration and achieving the bouncy, plump texture of glass skin quickly, and it is a cornerstone of this routine.</p>
+</details>
 
-**Is glass skin suitable for all ages?**  
-Yes, from teens to adults, as long as you adjust for sensitivity.
+<details>
+  <summary>Should I apply a face mask every day during the 3-day routine?</summary>
+  <p>Yes. Using a **sheet mask or deep hydrating mask** every night for the three days is highly recommended. Masks deliver a high concentration of active ingredients and moisture deep into the skin, accelerating the glowing effect.</p>
+</details>
 
 ## Conclusion
 

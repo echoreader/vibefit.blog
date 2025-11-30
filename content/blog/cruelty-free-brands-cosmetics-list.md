@@ -105,17 +105,27 @@ Embracing **cruelty free brands cosmetics** has transformed my mornings from rus
 
 ## Frequently Asked Questions
 
-**What's the difference between cruelty-free and vegan beauty?**  
-**Cruelty free** means no animal testing **vegan beauty** adds no animal ingredients. Many overlap, like **E.l.f. Cosmetics**, but always check labels.
+<details>
+  <summary>What exactly does the term "cruelty-free" mean in cosmetics?</summary>
+  <p>The term "cruelty-free" means that neither the **final product nor any of its ingredients** have been tested on animals at any stage of development by the company, its suppliers, or any third party.</p>
+</details>
 
-**Are all drugstore cosmetics cruelty-free in 2025?**  
-Nope **NYX** and **E.l.f.** are, but others like Maybelline aren't. Use PETA's list for quick checks.
+<details>
+  <summary>Is "cruelty-free" the same as "vegan" in the beauty industry?</summary>
+  <p>No, they are different. **Cruelty-free** means no animal testing occurred. **Vegan** means the product contains no animal-derived ingredients (such as beeswax, carmine/cochineal, lanolin, or honey). A product can be cruelty-free but not vegan, or vice versa.</p>
+</details>
 
-**Can I trust "natural ingredients" claims in ethical cosmetics?**  
-Not always **clean beauty** brands like **Kosas** back it with certifications. Look for EWG Verified for transparency.
+<details>
+  <summary>What are the most reputable third-party certifications for cruelty-free status?</summary>
+  <p>The most reputable certifications are the **Leaping Bunny** program, **PETA’s Beauty Without Bunnies**, and **Choose Cruelty Free (CCF)**. The Leaping Bunny standard is generally considered the most stringent because it requires checks throughout the entire supply chain, not just the finished product.</p>
+</details>
 
-**Is Fenty Beauty still cruelty-free?**  
-Yes, fully committed no testing anywhere, per their 2025 policy. Just note some shades aren't vegan.
+<details>
+  <summary>If a brand sells in Mainland China, can it still be considered cruelty-free?</summary>
+  <p>Historically, no. Mainland China has often required animal testing for imported cosmetics. However, laws are changing. If a brand sells through *e-commerce only* or has met the specific requirements for certain categories, they may retain their cruelty-free status while navigating the market. Always check the brand’s specific statement and certification status.</p>
+</details>
 
-**Where do I find these cruelty free brands in the US?**  
-Sephora for **luxury beauty**, Target for **budget-friendly**, and online at brand sites or Credo for curated **ethical cosmetics**.
+<details>
+  <summary>Can I trust a brand that only claims "cruelty-free" on its packaging?</summary>
+  <p>Self-proclaimed claims are not always reliable due to regulatory loopholes. It is best to look for the **official bunny logo** from a third-party organization (like Leaping Bunny) on the packaging or check their official published lists, as these organizations audit the company and its suppliers.</p>
+</details>

@@ -92,7 +92,7 @@ permalinkable = true
 # Params tambahan
 [params]
   # Social media
-  github = "username"
+  #github = "username"
   twitter = "username"
   linkedin = "username"
   
@@ -101,7 +101,7 @@ permalinkable = true
   enablePWA = true
   
   # Analytics
-  googleAnalytics = "UA-XXXXX"
+  #googleAnalytics = "UA-XXXXX"
   
   # Organization info untuk schema
   #organizationName = "Nama Blog Anda"

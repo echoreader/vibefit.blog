@@ -288,6 +288,33 @@ The journey to finding your perfect homemade makeup remover might take some expe
 
 Remember, the **best homemade makeup remover** is the one that works consistently for _your_ unique skin. Take notes, be patient with the process, and don't be afraid to modify recipes to suit your needs.
 
+## FAQ
+
+<details>
+  <summary>What is the key ingredient in the best homemade makeup remover?</summary>
+  <p>The key ingredient is a high-quality, gentle **carrier oil**. Oils like **Coconut Oil** (though potentially comedogenic for some), **Olive Oil**, or **Jojoba Oil** are highly effective because they dissolve oil-based makeup (like foundation and waterproof mascara) without stripping the skin's natural barrier.</p>
+</details>
+
+<details>
+  <summary>Is it safe to use pure oil on my face, especially if I have oily or acne-prone skin?</summary>
+  <p>It can be safe, provided you follow the **double cleansing method**. Use the oil to dissolve makeup, then follow immediately with a gentle, water-based cleanser to thoroughly wash away the oil and residue. This prevents pores from clogging.</p>
+</details>
+
+<details>
+  <summary>How can I make a simple homemade makeup remover solution?</summary>
+  <p>A simple, effective recipe involves mixing **2 parts Carrier Oil** (e.g., olive or jojoba) with **1 part Witch Hazel or Aloe Vera Gel** and adding a few drops of water or a mild liquid soap. Shake well and apply it with a cotton pad. The oil removes makeup, and the witch hazel/aloe provides a light, soothing cleanse.</p>
+</details>
+
+<details>
+  <summary>What natural ingredient is best for removing stubborn eye makeup?</summary>
+  <p>**Castor Oil** or **Sweet Almond Oil** are highly effective for stubborn or waterproof eye makeup. They are gentle on the delicate eye area and also have conditioning properties that can help moisturize eyelashes.</p>
+</details>
+
+<details>
+  <summary>Why should I avoid using soap and water alone to remove makeup?</summary>
+  <p>Traditional soap and water often fail to break down waterproof or silicone-based makeup fully, leaving residue that can clog pores. Furthermore, traditional soaps can be too alkaline, stripping the skin's natural acidic pH and causing dryness and irritation.</p>
+</details>
+
 _Have you tried making your own makeup remover? Share your experience and favorite ingredients in the comments below!_ 💬
 
 * * *

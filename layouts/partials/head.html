@@ -33,77 +33,23 @@
 {{ if .IsHome }}
   {{ $title = "Vibefit Blog — Beauty Rituals & Wellness Wisdom for Modern Self-Care" }}
   {{ $description = "Discover Vibefit Blog, where beauty meets balance. Explore skincare rituals, fashion insights, fitness tips, and holistic wellness guides designed." }}
-
-  <!-- Schema: Organization -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Echo Reader",
-    "alternateName": "Echo",
-    "url": "https://vibefit.blog/",
-    "logo": "https://vibefit.blog/favicon.ico",
-    "description": "{{ $description }}",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Chattanooga",
-      "addressRegion": "TN",
-      "addressCountry": "US"
-    },
-    "sameAs": [
-      "https://x.com/echo_reader",
-      "https://github.com/echoreader",
-      "https://www.linkedin.com/in/echo-reader/"
-    ]
-  }
-  </script>
-
+  {{ partial "schemas/organization.html" . }}
 {{ else if in $url "/about/" }}
   {{ $title = "About Vibefit — Where Beauty Meets Wellness in Everyday Self-Care" }}
   {{ $description = "Vibefit is your sanctuary for modern self-care. We blend beauty rituals, fashion insights, fitness routines." }}
-
-  <!-- Schema: ProfilePage -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "ProfilePage",
-    "mainEntity": {
-      "@type": "Person",
-      "name": "Echo Reader",
-      "alternateName": "Echo",
-      "description": "{{ $description }}",
-      "url": "https://vibefit.blog/about/",
-      "sameAs": [
-        "https://x.com/echo_reader",
-        "https://github.com/echoreader",
-        "https://www.linkedin.com/in/echo-reader/"
-      ],
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Chattanooga",
-        "addressRegion": "TN",
-        "addressCountry": "US"
-      }
-    }
-  }
-  </script>
-
+  {{ partial "schemas/profilepage.html" . }}
 {{ else if in $url "/contact/" }}
   {{ $title = "Contact" }}
   {{ $description = "Get in touch with me for questions, feedback, or collaboration opportunities." }}
-
 {{ else if in $url "/disclaimer/" }}
   {{ $title = "Disclaimer" }}
   {{ $description = "Read this disclaimer to understand the limitations of the information provided on this blog." }}
-
 {{ else if in $url "/privacy-policy/" }}
   {{ $title = "Privacy Policy" }}
   {{ $description = "Learn how I collect, use, and protect your data while you browse this informational blog." }}
-
 {{ else if and (in $url "/blog/") (not .IsPage) }}
   {{ $title = "Vibefit Articles — Skincare, Fashion, Fitness & Wellness" }}
   {{ $description = "Browse Vibefit curated collection of articles blending beauty rituals, fashion inspiration, fitness routines, and holistic wellness tips." }}
-
 {{ else }}
   {{ $title = printf "%s | Echo Reader" .Title }}
   {{ with .Description }}
@@ -111,46 +57,9 @@
   {{ else }}
     {{ $description = .Summary | plainify | truncate 160 }}
   {{ end }}
-
-  <!-- Schema: BlogPosting -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "{{ $title }}",
-    "description": "{{ $description }}",
-    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-    "author": {
-      "@type": "Person",
-      "name": "Echo Reader",
-      "url": "https://vibefit.blog/about/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Echo Reader",
-      "url": "https://vibefit.blog/",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://vibefit.blog/favicon.ico"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{{ .Permalink }}"
-    },
-    "isPartOf": {
-      "@type": "Blog",
-      "name": "Vibefit Blog",
-      "url": "https://vibefit.blog/blog/"
-    },
-    {{ with .Params.featuredImage }}
-    "image": "{{ . }}",
-    {{ end }}
-    "wordCount": {{ .WordCount }},
-    "articleBody": "{{ .Plain | htmlEscape | truncate 500 }}"
-  }
-  </script>
+  {{ partial "schemas/article.html" . }}
+  {{ partial "schemas/breadcrumb.html" . }}
+  {{ partial "schemas/faq.html" . }}
 {{ end }}
 
 

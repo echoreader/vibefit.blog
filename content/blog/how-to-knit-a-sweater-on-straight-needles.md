@@ -91,73 +91,29 @@ Once the body is assembled, use your double-pointed or circular needle to pick u
 *   **Patience is a Virtue:** Savor the process. Every stitch is progress.
 *   **Straight Needles are Valid:** They are a perfect, accessible tool for creating a beautiful, handmade sweater.
 
-<section itemScope itemType="https://schema.org/FAQPage">
-  <h2>Frequently Asked Questions (FAQ) on Knitting Basics</h2>
+## Frequently Asked Questions (FAQ) on Knitting Basics
 
-  <details itemProp="mainEntity" itemScope itemType="https://schema.org/Question">
-    <summary itemProp="name">
-      1. I'm used to circular needles. Can I still use this method?
-    </summary>
-    <div itemProp="acceptedAnswer" itemScope itemType="https://schema.org/Answer">
-      <div itemProp="text">
-        <p>
-          Absolutely! You can absolutely knit flat pieces on a circular needle by 
-          simply turning your work at the end of each row, just as you would with 
-          **straight needles**. This method is often called "flat knitting on a 
-          circular needle."
-        </p>
-      </div>
-    </div>
-  </details>
+<details>
+  <summary>Why do most modern sweater patterns use circular needles instead of straight needles?</summary>
+  <p>Modern patterns prefer circular needles because they allow you to knit the entire body of the sweater in one piece, avoiding seams (**seamless knitting**). Using straight needles requires knitting the back, front, and two sleeves separately, which then must be carefully seamed together (sewn) to assemble the garment.</p>
+</details>
 
-  <details itemProp="mainEntity" itemScope itemType="https://schema.org/Question">
-    <summary itemProp="name">
-      2. What is the easiest sweater pattern for a true beginner?
-    </summary>
-    <div itemProp="acceptedAnswer" itemScope itemType="https://schema.org/Answer">
-      <div itemProp="text">
-        <p>
-          Look for a "**raglan**" sweater knit flat. The sleeve shaping is more 
-          gradual and can be simpler than a set-in sleeve. Alternatively, a boxy, 
-          drop-shoulder sweater with minimal shaping is also an excellent first project.
-        </p>
-      </div>
-    </div>
-  </details>
+<details>
+  <summary>What knitting stitches are typically used for a beginner's straight-needle sweater?</summary>
+  <p>Beginners usually start with very simple, traditional stitches. The most common are the **Garter Stitch** (knitting every row) or the **Stockinette Stitch** (knit one row, purl one row), as these form the basic fabric required for the front and back panels.</p>
+</details>
 
-  <details itemProp="mainEntity" itemScope itemType="https://schema.org/Question">
-    <summary itemProp="name">
-      3. How long does it take to knit a sweater?
-    </summary>
-    <div itemProp="acceptedAnswer" itemScope itemType="https://schema.org/Answer">
-      <div itemProp="text">
-        <p>
-          This varies wildly based on your speed, the size of the sweater, and the 
-          thickness of the yarn. A worsted-weight sweater could take a few weeks 
-          of consistent knitting for a beginner. Don't set a deadline; **enjoy the journey**.
-        </p>
-      </div>
-    </div>
-  </details>
+<details>
+  <summary>How do I ensure the different pieces (front, back, sleeves) fit together correctly?</summary>
+  <p>The most important step is creating and checking your **Gauge Swatch** before starting. This ensures your stitch density matches the pattern's. When shaping the neckline and shoulders, you must meticulously follow the pattern's **bind-off and decrease instructions** to create perfectly symmetrical pieces that align when seamed.</p>
+</details>
 
-  <details itemProp="mainEntity" itemScope itemType="https://schema.org/Question">
-    <summary itemProp="name">
-      4. My pieces look messy. Is that normal?
-    </summary>
-    <div itemProp="acceptedAnswer" itemScope itemType="https://schema.org/Answer">
-      <div itemProp="text">
-        <p>
-          Yes! Knitted fabric before blocking often looks crumpled and uneven. 
-          **Blocking is a transformative process** that relaxes the fibers, 
-          evens out the stitches, and gives your work a professional, finished look. 
-          Trust the process.
-        </p>
-      </div>
-    </div>
-  </details>
-</section>
-</br>
-<div style="background-color: #ffffcc; border: thin solid rgb(255, 153, 0); font-size: larger; line-height: 1.7; padding: 18px 25px;">
-  Creating your first sweater is an incredible achievement. It’s a piece of wearable art, infused with your time and intention. So, find a pattern you love, choose a yarn that makes you happy, and cast on. Your journey to a handmade wardrobe starts now.
-</div>
-</br>
+<details>
+  <summary>What is the most challenging part of knitting a sweater on straight needles?</summary>
+  <p>The most challenging part is usually the **seaming/assembly**. Poor seaming can lead to bulky or uneven joins. Techniques like the **mattress stitch** are essential for creating professional-looking, invisible side and shoulder seams.</p>
+</details>
+
+<details>
+  <summary>What kind of yarn is recommended for a beginner's first sweater?</summary>
+  <p>A good choice for beginners is a **medium-weight (Worsted or Aran) wool or acrylic blend** in a light, solid color. Wool blends are forgiving, and light colors make it easier to see your stitches and correct mistakes.</p>
+</details>

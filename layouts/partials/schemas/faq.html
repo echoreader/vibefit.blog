@@ -1,0 +1,42 @@
+{{- $content := .Content -}}
+{{- $questions := slice -}}
+
+{{- $detailsBlocks := findRE `(?s)<details>.*?</details>` $content -}}
+
+{{- range $detailsBlocks -}}
+  {{- $question := replaceRE `(?s).*<summary>([^<]+)</summary>.*` "$1" . | plainify | strings.TrimSpace -}}
+  {{- $answerBlock := replaceRE `(?s).*</summary>\s*(.+?)\s*</details>.*` "$1" . -}}
+  {{- $answer := $answerBlock | plainify | strings.TrimSpace -}}
+
+  {{- /* Bersihkan quotes & markdown */ -}}
+  {{- $question = replaceRE `^"(.*)"$` "$1" $question -}}
+  {{- $answer   = replaceRE `^"(.*)"$` "$1" $answer -}}
+  {{- $answer   = replaceRE `\*\*(.*?)\*\*` "$1" $answer -}}
+  {{- $answer   = replaceRE `\*(.*?)\*` "$1" $answer -}}
+
+  {{- if and $question $answer -}}
+    {{- $questions = $questions | append (dict "q" $question "a" $answer) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt (len $questions) 0 -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $item := $questions -}}
+    {{- if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $item.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $item.a | jsonify }}
+      }
+    }
+    {{- end -}}
+  ]
+}
+</script>
+{{- end -}}
