@@ -38,8 +38,6 @@ description = "Echo Reader a passionate blog writer dedicated to sharing meaning
 [permalinks]
   blog = "/:slug/"
 
-disableKinds = ["sitemap"]
-
 # Outputs
 [outputs]
   home = ["HTML", "RSS", "SitemapIndex", "SitemapPost", "SitemapPage"]
