@@ -49,7 +49,7 @@ The name carries immense weight. Alumni include Marc Jacobs, Tom Ford, and Alexa
 
 #### Fashion Institute of Technology (FIT): Public Access and Affordability
 
-Don't underestimate FIT. As a public college, it offers a more accessible (but still highly competitive) path into the industry. The education is intensely practical and technically rigorous. You'll learn the nuts and bolts of the business, from design and patternmaking to merchandising and marketing. Its graduates are known for being industry-ready on day one.
+Don't underestimate [FIT](https://vibefit.blog/how-much-is-fashion-institute-of-technology-tuition/). As a public college, it offers a more accessible (but still highly competitive) path into the industry. The education is intensely practical and technically rigorous. You'll learn the nuts and bolts of the business, from design and patternmaking to merchandising and marketing. Its graduates are known for being industry-ready on day one.
 
 ### London and Paris Icons
 

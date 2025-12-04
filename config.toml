@@ -1,14 +1,11 @@
 baseURL = "https://vibefit.blog"
-#echo-reader.netlify.app > vibefit.blog
+
 languageCode = "en-us"
 title = "Vibefit"
-# theme = "my-hugo-blog"
-
-# Meta description default
 description = "Echo Reader a passionate blog writer dedicated to sharing meaningful stories and perspectives across diverse niches. Each blog below represents a unique voice, crafted to inform, inspire, and connect with readers worldwide."
 
 # Author/organization info
-  [params.author]
+[params.author]
   name = "Echo Reader"
   email = "tom.bisnis@gmail.com"
   bio = "Echo Reader a passionate blog writer"
@@ -41,30 +38,10 @@ description = "Echo Reader a passionate blog writer dedicated to sharing meaning
 [permalinks]
   blog = "/:slug/"
 
-# Markdown processing
-#[markup]
-  #[markup.goldmark]
-    #[markup.goldmark.renderer]
-      #unsafe = true
-  #[markup.highlight]
-    #style = "monokai"
-
-# Services
-[services]
-  [services.googleAnalytics]
-    id = "UA-XXXXX" # Ganti dengan ID Google Analytics Anda
-
-# Sitemap
-#[sitemap]
-  #changefreq = "weekly"
-  #priority = 0.5
-
 disableKinds = ["sitemap"]
-
 
 # Outputs
 [outputs]
-  #home = ["HTML", "RSS", "JSON"]
   home = ["HTML", "RSS", "SitemapIndex", "SitemapPost", "SitemapPage"]
   page = ["HTML"]
 
@@ -92,31 +69,18 @@ permalinkable = true
 # Params tambahan
 [params]
   # Social media
-  #github = "username"
-  twitter = "username"
   linkedin = "username"
   
   # Features
   enableSchema = true
   enablePWA = true
-  
-  # Analytics
-  #googleAnalytics = "UA-XXXXX"
-  
-  # Organization info untuk schema
-  #organizationName = "Nama Blog Anda"
-  #organizationLogo = "/images/logo.png"
-  #organizationURL = "http://echo-reader.netlify.app/"
-
   relativeURLs = true
   canonifyURLs = false
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      # Menonaktifkan fitur tipografi Goldmark
-      unsafe = true # Diperlukan untuk beberapa ekstensi, tapi juga mengizinkan HTML mentah
-      # Di Goldmark terbaru, mungkin perlu menonaktifkan ekstensi typographer
+      unsafe = true
       
     [markup.goldmark.extensions]
       typographer = false
