@@ -24,7 +24,16 @@ export default defineConfig({
   ],
   preflights: [
     {
-      getCSS: () => `body { font-family: 'Open Sans', system-ui, sans-serif; }
+      getCSS: () => `
+
+        html {
+          overflow-y: scroll;
+        }
+
+        body { 
+          font-family: 'Open Sans', system-ui, sans-serif; 
+        }
+        
         table { 
           border-collapse: collapse; 
           width: 100%; 
@@ -52,9 +61,18 @@ export default defineConfig({
           overflow-x: auto; 
           -webkit-overflow-scrolling: touch; 
         }
-        blockquote { border-left: 4px solid #828282; padding-left: 12px; font-style: italic; }
-        details { margin-bottom: 1rem; }
-        summary { cursor: pointer; font-weight: bold; }`,
+        
+        blockquote { 
+          border-left: 4px solid #828282; padding-left: 12px; font-style: italic; 
+          }
+        
+        details { 
+          margin-bottom: 1rem; 
+        }
+        
+        summary { 
+          cursor: pointer; font-weight: bold; 
+        }`,
     },
   ]
 })
