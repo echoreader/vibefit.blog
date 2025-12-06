@@ -3,8 +3,8 @@ title: "How to Care for Curly Hair"
 description: "Learn how to care for curly hair with expert tips on washing, moisturizing, styling, and protecting your natural curls."
 date: 2025-11-28
 author: "Echo Reader"
-categories: ["hair-care"]
-tags: ["curly-hair", "natural-hair", "hair-routine", "moisturizing"]
+categories: ["beauty-fitness"]
+tags: ["curls", "hair", "styling"]
 ---
 
 ## Introduction: Why Traditional Hair Care Fails Curly Hair

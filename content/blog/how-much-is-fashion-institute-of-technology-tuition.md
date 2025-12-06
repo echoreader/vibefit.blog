@@ -3,8 +3,8 @@ title: "How much is Fashion institute of Technology Tuition"
 description: "Curious about the cost of attending the Fashion Institute of Technology? Check out our guide for the latest tuition info and financial tips!"
 date: 2025-12-02
 author: "Echo Reader"
-categories: ["Education"]
-tags: ["fashion", "schools", "design", "world"]
+categories: ["education"]
+tags: ["fashion-institute-of-technology", "guide"]
 ---
 
 ## Introduction: Why **FIT Tuition** is Not a Single Number
