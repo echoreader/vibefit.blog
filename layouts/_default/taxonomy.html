@@ -1,0 +1,37 @@
+{{ define "main" }}
+<div class="max-w-4xl mx-auto px-4">
+
+  <!-- Header -->
+  <header class="mb-8 text-left space-y-2">
+    <h1 class="text-3xl font-bold text-purple-700">{{ .Title }}</h1>
+    {{ with .Description }}
+      <p class="text-base leading-relaxed text-gray-700">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  <!-- Category Posts (NO PAGING) -->
+  <div class="space-y-8">
+    {{ range .Pages }}
+    <article class="border border-solid border-purple-700 rounded-md p-6 mb-6">
+      <h2 class="text-xl font-bold text-purple-700 hover:text-purple-500">
+        <a href="{{ .Permalink }}" class="no-underline">{{ .Title }}</a>
+      </h2>
+
+      <div class="text-sm text-gray-500 space-x-2 mt-1">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "2 January 2006" }}
+        </time>
+        {{ with .ReadingTime }}
+        <span>• {{ . }} Read Minutes</span>
+        {{ end }}
+      </div>
+
+      {{ with .Params.description }}
+      <p class="mt-2 text-base leading-relaxed text-gray-700">{{ . }}</p>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}

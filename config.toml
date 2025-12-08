@@ -40,8 +40,9 @@ description = "Echo Reader a passionate blog writer dedicated to sharing meaning
 
 # Outputs
 [outputs]
-  home = ["HTML", "RSS", "SitemapIndex", "SitemapPost", "SitemapPage"]
+  home = ["HTML", "RSS", "SitemapIndex", "SitemapPost", "SitemapPage", "SitemapCategory"]
   page = ["HTML"]
+  taxonomy = ["HTML"]
 
 [outputFormats.SitemapIndex]
 mediaType = "application/xml"
@@ -63,6 +64,14 @@ baseName = "sitemap-page"
 isPlainText = true
 notAlternative = true
 permalinkable = true
+
+[outputFormats.SitemapCategory]
+mediaType = "application/xml"
+baseName = "sitemap-category"
+isPlainText = true
+notAlternative = true
+permalinkable = true
+
 
 # Params tambahan
 [params]

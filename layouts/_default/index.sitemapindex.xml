@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
+    <loc>https://vibefit.blog/sitemap-page.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05Z07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
     <loc>https://vibefit.blog/sitemap-post.xml</loc>
     <lastmod>{{ now.Format "2006-01-02T15:04:05Z07:00" }}</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://vibefit.blog/sitemap-page.xml</loc>
+    <loc>https://vibefit.blog/sitemap-category.xml</loc>
     <lastmod>{{ now.Format "2006-01-02T15:04:05Z07:00" }}</lastmod>
   </sitemap>
 </sitemapindex>
