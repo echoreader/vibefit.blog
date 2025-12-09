@@ -72,6 +72,8 @@ Lifestyle-wise, I prioritize sleep aiming for 7-9 hours and manage stress with y
 
 As nutritionist Jane Smith once said, *"Your skin is a reflection of your inner health; nourish it from within for lasting glow."*
 
+> Want clearer, smoother skin fast? Check out [How to Get Glass Skin in 3 Days at Home](https://vibefit.blog/how-to-get-glass-skin-in-3-days-at-home/) for a glowing routine.
+
 ## Addressing Acne Scars and Long-Term Prevention
 
 Even after pimples fade, scars can linger. For *acne scar removal*, I've found rosehip oil effective it's rich in vitamins and fades marks over time.

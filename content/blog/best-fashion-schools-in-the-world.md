@@ -101,8 +101,9 @@ Let's get real. Getting into these schools is a battle. Your grades matter, but 
 | **FIT**               | 3.0+                  | Technical skill, construction, market awareness | Include flat sketches, tech packs, and evidence that you understand how a garment is built. |
 | **ESMOD**             | N/A (Focus on portfolio & interview) | Technical precision, draping, patternmaking      | Photograph your toile prototypes and show your meticulous construction process.     |
 
-
 **The universal requirement?** A passionate, well-articulated personal statement that connects your story to your chosen school's specific philosophy.
+
+> Exploring fashion education options? Read [How Much Is Fashion Institute of Technology Tuition?](https://vibefit.blog/how-much-is-fashion-institute-of-technology-tuition/) for real‑world cost insights.
 
 Case Study: How a Student Chose the Right Fashion School
 --------------------------------------------------------

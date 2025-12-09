@@ -132,6 +132,7 @@ You only need a few good pairs. I swear by these three:
     
 *   **Invest in quality**: Well-made shoes last longer and feel better.
     
+> Ready to build a more intentional closet? Explore [Beginner’s Guide to Building a Capsule Wardrobe](https://vibefit.blog/beginner-guide-to-building-a-capsule-wardrobe/) for a simplified, stylish approach.
 
 ### Accessories: The Personality
 

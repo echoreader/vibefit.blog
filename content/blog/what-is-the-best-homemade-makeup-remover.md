@@ -231,6 +231,8 @@ I consulted with several dermatologists about homemade makeup removers, and thei
 
 The consensus among skincare professionals I spoke with: **homemade makeup removers can be highly effective when formulated properly and used correctly**.
 
+> Love clean beauty? Discover more with [Cruelty‑Free Cosmetics Brands List](https://vibefit.blog/cruelty-free-brands-cosmetics-list/) — ethical picks for your routine.
+
 Optimizing Your Routine for Long-Term Skin Health
 -------------------------------------------------
 

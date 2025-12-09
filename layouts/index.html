@@ -8,6 +8,72 @@
       Vibefit blends beauty and wellness into one empowering space. From skincare rituals and fashion insights to mindful movement and holistic health tips, we help you craft a self-care journey that’s radiant, balanced, and uniquely yours.
     </p>
   </section>
+
+  <!-- ✅ CATEGORY GRID + BUTTON WRAPPED IN CONTAINER -->
+  <section class="px-4 max-w-4xl mx-auto">
+
+    <!-- CATEGORY GRID -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+
+      <!-- Fashion Style -->
+      <article class="rounded-lg border border-gray-300 p-4 shadow-sm hover:shadow-md transition bg-white space-y-2">
+        <h3 class="text-xl font-semibold text-gray-900 leading-tight">
+          <a
+            href="{{ "/categories/fashion-style/" | absURL }}"
+            class="no-underline text-blue-700 hover:text-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400"
+          >
+            Fashion Style
+          </a>
+        </h3>
+        <p class="text-sm text-gray-600 leading-relaxed">
+          Trends, outfit ideas, and style inspiration for modern fashion lovers.
+        </p>
+      </article>
+
+      <!-- Beauty & Fitness -->
+      <article class="rounded-lg border border-gray-300 p-4 shadow-sm hover:shadow-md transition bg-white space-y-2">
+        <h3 class="text-xl font-semibold text-gray-900 leading-tight">
+          <a
+            href="{{ "/categories/beauty-fitness/" | absURL }}"
+            class="no-underline text-blue-700 hover:text-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400"
+          >
+            Beauty & Fitness
+          </a>
+        </h3>
+        <p class="text-sm text-gray-600 leading-relaxed">
+          Skincare, wellness routines, and fitness tips for a healthier lifestyle.
+        </p>
+      </article>
+
+      <!-- DIY Expert Content -->
+      <article class="rounded-lg border border-gray-300 p-4 shadow-sm hover:shadow-md transition bg-white space-y-2">
+        <h3 class="text-xl font-semibold text-gray-900 leading-tight">
+          <a
+            href="{{ "/categories/diy-expert-content/" | absURL }}"
+            class="no-underline text-blue-700 hover:text-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400"
+          >
+            DIY Expert Content
+          </a>
+        </h3>
+        <p class="text-sm text-gray-600 leading-relaxed">
+          Hands-on guides, creative projects, and expert DIY techniques for makers.
+        </p>
+      </article>
+
+    </div>
+
+    <!-- ✅ BUTTON DI BAWAH GRID, TENGAH -->
+    <div class="flex justify-center mt-10 mb-16">
+      <a 
+        href="{{ "/blog/" | relURL }}"
+        class="px-6 py-3 border border-gray-300 rounded-lg font-semibold bg-white hover:bg-gray-50 shadow-sm transition"
+      >
+        Explore All Posts →
+      </a>
+    </div>
+
+  </section>
+
 </div>
 {{ end }}
 

@@ -79,6 +79,8 @@ I have rosacea-prone cheeks, so I was nervous. The trick? **Blade guards** and *
 
 > “Sensitive skin types should patch-test on the jawline first,” advises esthetician Renée Rouleau. “If no irritation in 24 hours, you’re good to go.”
 
+> After dermaplaning, proper cleansing matters. Explore [What Is the Best Homemade Makeup Remover?](https://vibefit.blog/what-is-the-best-homemade-makeup-remover/) for gentle post‑exfoliation care.
+
 ## Where to Buy + Budget Hacks
 
 All my recommended tools are available at **Target, Ulta, Amazon, or Walmart** in the U.S. Pro tip: Sign up for **Billie’s subscription** refills ship automatically for $9 every two months. Or grab the **Dorco Tinkle** 24-pack on Amazon for under $15 (that’s 62 cents per session).

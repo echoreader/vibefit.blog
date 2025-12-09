@@ -98,6 +98,8 @@ Here’s what I do:
 
 Small habits, but they make a big difference.
 
+> Want healthier hair overall? Check out [How to Care for Curly Hair](https://vibefit.blog/how-to-care-for-curly-hair/) for nourishing techniques that work for all textures.
+
 ✂️ Should I Trim My Hair to Help It Grow?
 -----------------------------------------
 

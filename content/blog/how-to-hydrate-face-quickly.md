@@ -125,6 +125,7 @@ Sleeping masks or "packs" are designed to be the last step in your nighttime rou
 
 These ingredients create a protective barrier on top of your skin that dramatically reduces transepidermal water loss (TEWL). It's like putting a lid on a pot of boiling water it keeps all the good stuff from evaporating away.
 
+> For a complete skincare approach, explore [Skin Care Routine for Women Over 50](https://vibefit.blog/skin-care-routine-for-women-over-50/) — packed with age‑defying hydration tips.
 
 Hydration from Within: The Role of Diet and Lifestyle
 -----------------------------------------------------

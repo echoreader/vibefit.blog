@@ -128,6 +128,8 @@ Through trial and error, I've identified the core items that form a functional m
 
 These numbers aren't rigid rules. I adjust based on my lifestyle needs and seasonal capsule requirements.
 
+> Want to refine your personal style even further? Explore [Basic Wardrobe Essentials for Women](https://vibefit.blog/basic-wardrobe-essentials-woman/) for timeless pieces that elevate any capsule collection.
+
 ## Building Your Seasonal Capsule
 
 I maintain a rotating seasonal capsule rather than one static wardrobe. This approach accommodates weather changes while keeping my closet manageable.

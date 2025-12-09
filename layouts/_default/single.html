@@ -5,19 +5,18 @@
     <div class="container">
 
       <!-- Breadcrumb -->
-<nav class="breadcrumb text-sm text-gray-600 mb-2">
-  <a href="/" class="text-gray-800 hover:text-purple-600">Home</a> ›
+      <nav class="breadcrumb text-sm text-gray-600 mb-2">
+        <a href="/" class="text-gray-800 hover:text-purple-600">Home</a> ›
 
-  {{ with .Params.categories }}
-    {{ $cat := index . 0 }}
-    {{ with site.GetPage (printf "categories/%s" $cat) }}
-      <a href="{{ .Permalink }}" class="hover:text-purple-600">{{ .Title }}</a> ›
-    {{ end }}
-  {{ end }}
+        {{ with .Params.categories }}
+          {{ $cat := index . 0 }}
+          {{ with site.GetPage (printf "categories/%s" $cat) }}
+            <a href="{{ .Permalink }}" class="hover:text-purple-600">{{ .Title }}</a> ›
+          {{ end }}
+        {{ end }}
 
-  <span class="font-semibold">{{ .Title }}</span>
-</nav>
-
+        <span class="font-semibold">{{ .Title }}</span>
+      </nav>
 
       <h1>
         <a

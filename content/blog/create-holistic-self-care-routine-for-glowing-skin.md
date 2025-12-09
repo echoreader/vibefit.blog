@@ -63,6 +63,8 @@ My top **self-care practices** for managing stress include:
 *   **Digital Detox:** I set strict boundaries with my phone, especially an hour before bed, to improve sleep quality and mental clarity.
 *   **Nature Therapy:** A simple 20-minute walk in a park without headphones is a powerful reset for my **emotional well-being**.
 
+> Want faster glow results? Check out [How to Get Glass Skin in 3 Days at Home](https://vibefit.blog/how-to-get-glass-skin-in-3-days-at-home/) for a more intensive radiance routine.
+
 ### 4. Prioritize Physical Health: Move, Sleep, and Breathe
 
 **Physical health** provides the engine for your entire **wellness routine**.

@@ -87,6 +87,8 @@ Here's a quick-hit list of game-changers I've road-tested:
 
 *"Switching to **cruelty free brands** felt restrictive at first, but now? My drawer is fuller, my conscience clearer, and my skin thanks me."*  A quote from my own journal, because why not?
 
+> If you love clean beauty, you’ll enjoy [What Is the Best Homemade Makeup Remover?](https://vibefit.blog/what-is-the-best-homemade-makeup-remover/) — gentle, natural, and cruelty‑free friendly.
+
 ## Navigating Vegan vs. Cruelty Free: My Tips for the Overwhelmed Shopper
 
 Not all **cruelty free brands** are vegan, and vice versa **Fenty Beauty** is cruelty-free but has some non-vegan shades with carmine. For full **vegan beauty**, seek the Vegan Society stamp. I mix both: Cruelty-free for variety, vegan for daily drivers. In **skincare**, it's easier most are naturally plant-based. Pro move: Build a "vegan core" (mascara, foundation) and flex on lips.

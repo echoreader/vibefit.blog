@@ -80,6 +80,8 @@ This is where the magic happens and your pile of knitted pieces transforms into 
 1.  **Blocking:** Gently wash your pieces according to the yarn label, then lay them flat on a towel, patting them into the correct shape and dimensions. Let them dry completely. This evens out your stitches and makes sewing easier.
 2.  **Sewing:** Use the mattress stitch to seam the shoulders first, then attach the sleeves to the body at the armholes, and finally sew the side and sleeve seams from the cuff down to the hem.
 
+> Love hands‑on projects? You might enjoy [Easy DIY Projects for Creative Home Makers](https://vibefit.blog/easy-diy-projects-for-creative-home-makers/) for more cozy, creative ideas.
+
 ### Step 6: Picking Up the Neckband
 
 Once the body is assembled, use your double-pointed or circular needle to pick up stitches evenly around the neckline. Knit a few rows in a ribbed stitch (K1, P1) for elasticity, then bind off loosely. This finishes the sweater beautifully and prevents the neckline from stretching out.

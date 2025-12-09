@@ -79,6 +79,8 @@ The way I dry my hair determines the level of **Frizz Control** and volume I ach
 
 After the hair is fully dry and the gel has formed a hard cast, I use the **Scrunching** technique again but this time to "SOTC" (Scrunch Out the Cast). I gently crush the gel cast until the hair feels soft, revealing defined, bouncy curls. This is my favorite part of the **Curl Routine**!
 
+> Looking to boost your hair health even more? Read [How to Make Your Hair Grow Faster in a Day](https://vibefit.blog/how-to-make-your-hair-grow-faster-in-a-day/) for quick, effective tips.
+
 ## 5. How to Protect Your Curls: Overnight and Refreshing Care
 
 Even after the perfect wash day, maintenance is required to preserve **Hair Definition** and **Hydration**.
